@@ -1,9 +1,9 @@
-### ¡Hola! soy  harold 👋
+### Hello! i'm harold 👋
 
 
 
-Estoy aprendiendo a programar:
+I am learning to program:
 
-- 🌱 Actualmente estoy aprendiendo 
-- 📫 Cómo contactarme: harolditamar12@gmail.com
-- 😄 
+- 🌱 I am currently learning
+- 📫 How to contact me: harolditamar12@gmail.com
+- 😄
