@@ -8,12 +8,8 @@ I am learning to program:
 - 📫 How to contact me: harolditamar12@gmail.com
 - 🌱 I am currently learning:
 <!-- Aprendiendo a programar -->
-  <a href="#" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" style="max-width: 100%;"> </a>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;">  <img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Atom_Logo.png" alt="Proteus" width="40" height="40" style="max-width: 100%;">
- <img src="https://www.jasoft.org/Blog/image.axd?picture=/2021/localdb/SQL-Server-logo.png" alt="SqlServer" width="40" height="40" style="max-width: 100%;">
- <img src="https://clipart.info/images/ccovers/1499794873php-logo-filled-png.png" alt="php" width="40" height="40" style="max-width: 100%;">
- <img src="https://1000marcas.net/wp-content/uploads/2021/02/Cinema-4D-Logo.png" alt="cinema4d" width="40" height="40" style="max-width: 100%;">
- <img src="https://pa1.narvii.com/6388/28395d390e6dd9985076daf4f172d68e8067792e_hq.gif" alt="cinema4d" width="40" height="40" style="max-width: 100%;">
+  <a href="#" rel="nofollow"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="csharp" width="40" height="40" style="max-width: 100%;"> </a>
+
  
  
 <!--  Aqui pondre donde es mi experiencia labroal -->
