@@ -8,8 +8,18 @@ I am learning to program:
 - 📫 How to contact me: harolditamar12@gmail.com
 - 🌱 I am currently learning:
 <!-- Aprendiendo a programar -->
-  <a href="#" rel="nofollow"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="csharp" width="40" height="40" style="max-width: 100%;"> </a>
+<p dir="auto"><code><a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn-icons-png.flaticon.com/128/732/732212.png"><img height="20" src="https://cdn-icons-png.flaticon.com/128/732/732212.png" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn-icons-png.flaticon.com/128/5968/5968282.png"><img height="20" src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn-icons-png.flaticon.com/512/2716/2716612.png"><img height="20" src="https://cdn-icons-png.flaticon.com/512/2716/2716612.png" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" href=""><img height="20" src="" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" href=""><img height="20" src="" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" href=""><img height="20" src="" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" href=""><img height="20" src="" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" href=""><img height="20" src="" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" href=""><img height="20" src="" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" href=""><img height="20" src="" style="max-width: 100%;"></a></code></p>
 
+ 
  
  
 <!--  Aqui pondre donde es mi experiencia labroal -->
