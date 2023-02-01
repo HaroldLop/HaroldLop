@@ -11,7 +11,7 @@ I am learning to program:
 <p dir="auto"><code><a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn-icons-png.flaticon.com/128/732/732212.png"><img height="20" src="https://cdn-icons-png.flaticon.com/128/732/732212.png" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn-icons-png.flaticon.com/128/5968/5968282.png"><img height="20" src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn-icons-png.flaticon.com/512/2716/2716612.png"><img height="20" src="https://cdn-icons-png.flaticon.com/512/2716/2716612.png" style="max-width: 100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer nofollow" href=""><img height="20" src="" style="max-width: 100%;"></a></code>
+<code><a target="_blank" rel="noopener noreferrer nofollow" href="https://cdn-icons-png.flaticon.com/512/6132/6132219.png"><img height="20" src="https://cdn-icons-png.flaticon.com/512/6132/6132219.png" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer nofollow" href=""><img height="20" src="" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer nofollow" href=""><img height="20" src="" style="max-width: 100%;"></a></code>
 <code><a target="_blank" rel="noopener noreferrer nofollow" href=""><img height="20" src="" style="max-width: 100%;"></a></code>
