@@ -27,8 +27,8 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=HaroldLop&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaroldLop&layout=compact&theme=radical" alt="Top Languages">
 </div>
 
 ---
