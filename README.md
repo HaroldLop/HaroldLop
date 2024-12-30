@@ -5,6 +5,11 @@
     <img src="https://img.shields.io/github/followers/HaroldLop.svg?style=social&label=Followers" alt="GitHub Followers">
   </a>
 </h1>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+I'm+Harold!;I+love+programming+and+learning!;I+work+with+AS400+and+new+techs!;Thanks+for+visiting+my+profile!&center=true&vCenter=true&width=500&height=50&duration=3000&pause=2000" alt="Typing SVG">
+  </a>
+</div>
 
 
 
