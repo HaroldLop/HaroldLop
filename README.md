@@ -24,9 +24,11 @@
   <img height="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132219.png" alt="C#">
   <img height="30" src="https://cdn-icons-png.flaticon.com/512/882/882727.png" alt="IBM AS400">
 </div>
+### 🔧 Technologies & Tools
 <div align="center">
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,figma,flutter,typescript,spring,csharp,github,aws" alt="My Skills">
 </div>
+
 
 ### 📊 GitHub Stats
 <div align="center">
