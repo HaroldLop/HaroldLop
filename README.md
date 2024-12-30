@@ -23,6 +23,7 @@
   <img height="30" src="https://cdn-icons-png.flaticon.com/512/2716/2716612.png" alt="JavaScript">
   <img height="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132219.png" alt="C#">
   <img height="30" src="https://cdn-icons-png.flaticon.com/128/1183/1183672.png" alt="AS400">
+  <img height="30" src="https://cdn-icons-png.flaticon.com/512/882/882727.png" alt="IBM AS400">
 </div>
 
 ### 📊 GitHub Stats
