@@ -41,7 +41,11 @@
 
 ### 🏆 Achievements
 - ✔️ Gained professional experience with **AS400**
-- ✔️ Built projects using **Flutter** 
+- ✔️ Built projects using **Flutter**
+
+  ### 🚀 Recent Activity
+[![GitHub Streak](https://streak-stats.demolab.com?user=HaroldLop&theme=radical)](https://git.io/streak-stats)
+
 
 <div align="center">
   <h3>Thanks for visiting! 😊</h3>
