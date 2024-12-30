@@ -4,9 +4,14 @@
 </h1>
 
 <div align="center">
-  [![GitHub followers](https://img.shields.io/github/followers/HaroldLop.svg?style=social&label=Followers)](https://github.com/HaroldLop?tab=followers)
+  <a href="https://github.com/HaroldLop?tab=followers">
+    <img src="https://img.shields.io/github/followers/HaroldLop.svg?style=social&label=Followers" alt="GitHub Followers">
+  </a>
 </div>
 
+<div align="center">
+  <img src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=6c09b952sz94i5inlz6y1f2g9ct7pgpxe79hy1rx3n0zlskv&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" style="max-width: 100%;">
+</div>
 <div align="center">
   <img src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=6c09b952sz94i5inlz6y1f2g9ct7pgpxe79hy1rx3n0zlskv&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" style="max-width: 100%;">
 </div>
