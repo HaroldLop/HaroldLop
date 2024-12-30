@@ -2,6 +2,7 @@
   <a id="user-content--hi-there-" class="anchor" aria-hidden="true" href="#-hi-there-"></a> 
   Hi there 👋, I'm Harold Lopez
 </h1>
+[![GitHub followers](https://img.shields.io/github/followers/Ahmad-shaikh575.svg?style=social&label=Followers)](https://github.com/Ahmad-shaikh575?tab=followers)
 
 <div align="center">
   <img src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=6c09b952sz94i5inlz6y1f2g9ct7pgpxe79hy1rx3n0zlskv&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300" style="max-width: 100%;">
