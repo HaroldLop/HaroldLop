@@ -19,7 +19,7 @@
 
 ### 🔧 Technologies & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,figma,flutter,linux" alt="My Skills">
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma,flutter,linux,postgres,postman,mysql,idea" alt="My Skills">
 </div>
 
 
