@@ -25,7 +25,7 @@
   <img height="30" src="https://cdn-icons-png.flaticon.com/512/882/882727.png" alt="IBM AS400">
 </div>
 <div align="center">
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,flutter,typescript,java,spring,kotlin,csharp,git,github,aws&theme=dark)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 </div>
 
 ### 📊 GitHub Stats
