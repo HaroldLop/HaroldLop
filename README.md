@@ -44,8 +44,9 @@
 - ✔️ Built projects using **Flutter**
 
   ### 🚀 Recent Activity
+  <div align="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=HaroldLop&theme=radical)](https://git.io/streak-stats)
-
+</div>
 
 <div align="center">
   <h3>Thanks for visiting! 😊</h3>
