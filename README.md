@@ -16,17 +16,10 @@
 <!-- Aprendiendo a programar -->
 ---
 
+
 ### 🔧 Technologies & Tools
 <div align="center">
-  <img height="30" src="https://cdn-icons-png.flaticon.com/128/732/732212.png" alt="HTML">
-  <img height="30" src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" alt="CSS">
-  <img height="30" src="https://cdn-icons-png.flaticon.com/512/2716/2716612.png" alt="JavaScript">
-  <img height="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132219.png" alt="C#">
-  <img height="30" src="https://cdn-icons-png.flaticon.com/512/882/882727.png" alt="IBM AS400">
-</div>
-### 🔧 Technologies & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,figma,flutter,typescript,spring,csharp,github,aws" alt="My Skills">
+  <img src="https://skillicons.dev/icons?i=html,css,js,figma,flutter,typescript,aws" alt="My Skills">
 </div>
 
 
